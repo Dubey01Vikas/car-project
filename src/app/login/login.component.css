@@ -1,0 +1,21 @@
+form{
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom:15%; 
+  
+  box-sizing: border-box;
+  border:1px solid green;
+  border-radius: 10px;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  border: 1px light blue;
+padding: 10px;
+box-shadow: 5px 10px  black;
+}
+
+.vl {
+  border-left: 1px solid green;
+  height:400px;
+}

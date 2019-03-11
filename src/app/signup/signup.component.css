@@ -1,0 +1,22 @@
+form{
+  margin-top: 25%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 25%;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+  
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  box-sizing:border-box;
+ 
+  border-radius: 10px;
+  border: 1px light blue;
+padding: 10px;
+box-shadow: 5px 10px  black;
+}
+
+
+
+  

@@ -1,0 +1,28 @@
+
+<div class="container-fluid " >
+	<form   style="background-image: url(assets/Signup.jpeg); " >
+	<div class="panel">
+		<div class="panel-heading-primary">
+		<h3 class="panel-title" style="text-align:left;"><b>NEW ENTRY</b></h3>
+		</div>
+		<div class="panel-body col-sm-12">
+   	 <!-- <div class="form-group"[class.has-errors]="UserIdControl.invalid && UserIdControl.touched"[class.has-success]="UserIdControl.valid"> 
+		<input required id="UserId"  type="number" class="form-control" placeholder="UserId"  >
+ 
+	
+	</div> -->
+	<div class="form-group" [class.has-error]="LEmail.invalid && LEmail.touched"[class.has-success]="LEmail.valid">
+		 <input required id="email" name="Email"[(ngModel)]="Email"type="email" class="form-control" placeholder="E-mail" #LEmail="ngModel" >
+		</div>
+		<div class="form-group">
+				<input required id="password"  type="password" class="form-control" placeholder="password" name="Password"[(ngModel)]="Password"#Lpass="ngModel">
+			</div>
+			<div class="form-group">
+					<input required id="confirm" type="password" class="form-control" placeholder="confirm password" >
+				</div>
+		</div>
+		<div class="panel-footer">
+			<button type="submit" class="btn btn-warning"  (click)="Save(LEmail,Lpass)" routerLink='/login'>SignUp</button>
+		</div>
+	</div>
+	</form></div>

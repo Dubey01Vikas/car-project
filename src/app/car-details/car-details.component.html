@@ -1,0 +1,27 @@
+  <div class="container">
+  <div  *ngFor="let Cars of CarsDetail"> 
+     
+    <div class="row"> 
+          <div class= "col-sm-8" >
+          <img src={{Cars.carImage}}>
+          </div>
+           <div class="col-sm-4" style=" text-align:center; border:1px solid black;background-color: cornsilk;"><p>{{Cars.carModel}}</p>
+            <p>Price:{{Cars.price}}</p>
+         <p>OwnerName:{{Cars.carOwnerName}}</p>
+         <p>OwnerNumber:{{Cars.carOwnerNumber}}</p>
+        <p>CarModel:{{Cars.modelId}}</p>
+        <p>{{Cars.carId}}</p>
+        <!-- <input type="button" class="btn btn-primary" value="Book" routerLink='/booking'> -->
+          <button type="submit" class="btn btn-primary" (click)=booking(Cars)>Book</button>
+       </div>
+       </div><br><br><br>
+     </div></div>
+    <!-- <div class="row">
+    <div class="col-sm-6 col-lg-4">
+      <div class="card">
+        <div class="card-block">
+          <img class="img-ct" src="assets/1.jpeg">
+        </div>
+      </div>
+    </div>
+  </div> -->

@@ -1,0 +1,12 @@
+<div  *ngFor="let Cars of CarsDetail"> 
+        <div class="row"> 
+             <div class= "col-md-6">
+             <img src={{Cars.carImage}}>
+             </div>
+              <div class="col-md-6"><p>{{Cars.carModel}}</p>
+               <p>{{Cars.price}}</p>
+            <p>{{Cars.carOwnerName}}</p>
+            <p>{{Cars.carOwnerNumber}}</p>
+           <p>{{Cars.modelId}}</p>
+           <p>{{Cars.carId}}</p>
+           <input type="button" class="btn btn-primary" value="Book" routerLink='/booking'>
