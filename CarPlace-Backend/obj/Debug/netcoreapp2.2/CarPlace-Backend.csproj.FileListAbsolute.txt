@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\bin\Debug\netcoreapp2.2\CarPlace-Backend.deps.json
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\bin\Debug\netcoreapp2.2\CarPlace-Backend.runtimeconfig.json
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\bin\Debug\netcoreapp2.2\CarPlace-Backend.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\bin\Debug\netcoreapp2.2\CarPlace-Backend.dll
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\bin\Debug\netcoreapp2.2\CarPlace-Backend.pdb
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.AssemblyInfo.cs
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.dll
+C:\Users\admin\source\repos\CarPlace-Backend\CarPlace-Backend\obj\Debug\netcoreapp2.2\CarPlace-Backend.pdb
